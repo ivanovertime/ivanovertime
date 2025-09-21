@@ -2,7 +2,7 @@
 
 ### Software & DevOps Consultant
 
-As a Software Development Consultant, I thrive on building scalable, high-performance applications. With a strong background in full-stack development, I enjoy working with robust backend solutions like Laravel and Spring Boot, and dynamic frontends like Vue and Angular. My true passion, however, lies at the intersection of development and operations. I'm deeply enthusiastic about DevOps, data analysis, and data engineering, constantly seeking new ways to leverage containerization, CI/CD, and data-driven insights to build efficient, automated systems and empower businesses through technology.
+My passion lies at the intersection of development, operations, and data. I'm a full-stack developer who loves building automated, efficient systems through DevOps and data engineering. I typically use tools like Laravel, Nest.js, Vue, and Angular to bring it all to life.
 
 ---
 
