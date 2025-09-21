@@ -8,12 +8,12 @@ My passion lies at the intersection of development, operations, and data. I'm a 
 
 ### 💻 Tech Stack & Skills
 
-- **Backend:** Laravel, Spring Boot, Node.js
+- **Backend:** Laravel, Nest.js, Node.js
 - **Frontend:** Vue, Angular, Nuxt, Flutter, Livewire
 - **DevOps:** Docker, CI/CD,
 - **Databases:** Postgres, MySQL, Microsoft SQL Server, MongoDB
-- **Programming Languages:** PHP, Java, JavaScript, Python, SQL
-- **Other:** E-commerce (WooCommerce, Odoo, CS-Cart), WordPress, Web Scraping, RFM analysis.
+- **Programming Languages:** PHP, TypeScript, Python, Java, SQL
+- **Other:** E-commerce (Medusa.js, WooCommerce, Odoo, CS-Cart), WordPress, Web Scraping, RFM analysis.
 
 
 ---
